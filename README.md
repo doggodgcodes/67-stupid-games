@@ -11,5 +11,5 @@ enjoy or dont (dont)
    git clone https://github.com/doggodgcodes/67-stupid-games.git
    cd 67-stupid-games
    ```
-   or press the green code button
+   or press the *green code* button
    ![Repo Image](https://doggodgcodes.github.io/assets/github-download-tutorial.jpg)
